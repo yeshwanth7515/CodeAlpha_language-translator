@@ -1,4 +1,4 @@
-# 🌐 CodeAlpha Language Translator
+# 🌐 Language Translator
 
 ## 📌 Project Overview
 This project is a web-based Language Translator developed using HTML, CSS, and JavaScript. It allows users to translate text between different languages with a simple and user-friendly interface.
